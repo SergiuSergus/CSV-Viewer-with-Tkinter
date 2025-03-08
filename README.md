@@ -34,9 +34,6 @@ This project is a Python application for viewing CSV files, using the **Tkinter*
 2. **Double-click** on the file name to view its contents.
 3. Use the **search bar** to filter data.
 
-## Screenshots
-*(Add images of the application here for better presentation.)*
-
 ## Contributions
 Any contributions are welcome! If you have suggestions or improvements, feel free to open a **pull request** or an **issue**.
 
